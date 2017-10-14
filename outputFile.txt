@@ -1,0 +1,536 @@
+Reading record number 1: 238
+Hash function result: 13
+Inserting 238 into Bucket 14
+The load factor is now 0.07
+
+Reading record number 2: 226
+Hash function result: 1
+Inserting 226 into Bucket 2
+The load factor is now 0.13
+
+Reading record number 3: 937
+Hash function result: 7
+Inserting 937 into Bucket 8
+The load factor is now 0.20
+
+Reading record number 4: 250
+Hash function result: 10
+Inserting 250 into Bucket 11
+The load factor is now 0.27
+
+Reading record number 5: 784
+Hash function result: 4
+Inserting 784 into Bucket 5
+The load factor is now 0.33
+
+Reading record number 6: 857
+Hash function result: 2
+Inserting 857 into Bucket 3
+The load factor is now 0.40
+
+Reading record number 7: 413
+Hash function result: 8
+Inserting 413 into Bucket 9
+The load factor is now 0.47
+
+Reading record number 8: 243
+Hash function result: 3
+Inserting 243 into Bucket 4
+The load factor is now 0.53
+
+Reading record number 9: 958
+Hash function result: 13
+Inserting 958 into Bucket 14
+The load factor is now 0.60
+
+Reading record number 10: 397
+Hash function result: 7
+Inserting 397 into Bucket 8
+The load factor is now 0.67
+
+Reading record number 11: 128
+Hash function result: 8
+Inserting 128 into Bucket 9
+The load factor is now 0.73
+
+Reading record number 12: 889
+Hash function result: 4
+Inserting 889 into Bucket 5
+The load factor is now 0.80
+
+Reading record number 13: 700
+Hash function result: 10
+Inserting 700 into Bucket 11
+The load factor is now 0.87
+
+Reading record number 14: 288
+Hash function result: 3
+Inserting 288 into Bucket 4
+The load factor is now 0.93
+
+Reading record number 15: 218
+Hash function result: 8
+Inserting 218 into Bucket 9
+The load factor is now 1.00
+
+Reading record number 16: 223
+Hash function result: 13
+Inserting 223 into Bucket 14
+The load factor is now 1.07
+
+Reading record number 17: 533
+Hash function result: 8
+Inserting 533 into Bucket 9
+The load factor is now 1.13
+
+Reading record number 18: 236
+Hash function result: 11
+Inserting 236 into Bucket 12
+The load factor is now 1.20
+
+Reading record number 19: 380
+Hash function result: 5
+Inserting 380 into Bucket 6
+The load factor is now 1.27
+
+Reading record number 20: 159
+Hash function result: 9
+Inserting 159 into Bucket 10
+The load factor is now 1.33
+
+Reading record number 21: 532
+Hash function result: 7
+Inserting 532 into Bucket 8
+The load factor is now 1.40
+
+Reading record number 22: 746
+Hash function result: 11
+Inserting 746 into Bucket 12
+The load factor is now 1.47
+
+Reading record number 23: 103
+Hash function result: 13
+Inserting 103 into Bucket 14
+The load factor is now 1.53
+
+Reading record number 24: 374
+Hash function result: 14
+Inserting 374 into Bucket 15
+The load factor is now 1.60
+
+Reading record number 25: 792
+Hash function result: 12
+Inserting 792 into Bucket 13
+The load factor is now 1.67
+
+Reading record number 26: 890
+Hash function result: 5
+Inserting 890 into Bucket 6
+The load factor is now 1.73
+
+Reading record number 27: 187
+Hash function result: 7
+Inserting 187 into Bucket 8
+The load factor is now 1.80
+
+Reading record number 28: 139
+Hash function result: 4
+Inserting 139 into Bucket 5
+The load factor is now 1.87
+
+Reading record number 29: 362
+Hash function result: 2
+Inserting 362 into Bucket 3
+The load factor is now 1.93
+
+Reading record number 30: 685
+Hash function result: 10
+Inserting 685 into Bucket 11
+The load factor is now 2.00
+
+Reading record number 31: 410
+Hash function result: 5
+Inserting 410 into Bucket 6
+The load factor is now 2.07
+
+Reading record number 32: 729
+Hash function result: 9
+Inserting 729 into Bucket 10
+The load factor is now 2.13
+
+Reading record number 33: 538
+Hash function result: 13
+Inserting 538 into Bucket 14
+The load factor is now 2.20
+
+Reading record number 34: 350
+Hash function result: 5
+Inserting 350 into Bucket 6
+The load factor is now 2.27
+
+Reading record number 35: 207
+Hash function result: 12
+Inserting 207 into Bucket 13
+The load factor is now 2.33
+
+Reading record number 36: 330
+Hash function result: 0
+Inserting 330 into Bucket 1
+The load factor is now 2.40
+
+Reading record number 37: 579
+Hash function result: 9
+Inserting 579 into Bucket 10
+The load factor is now 2.47
+
+Reading record number 38: 931
+Hash function result: 1
+Inserting 931 into Bucket 2
+The load factor is now 2.53
+
+Reading record number 39: 721
+Hash function result: 1
+Inserting 721 into Bucket 2
+The load factor is now 2.60
+
+Reading record number 40: 905
+Hash function result: 5
+Inserting 905 into Bucket 6
+The load factor is now 2.67
+
+Reading record number 41: 528
+Hash function result: 3
+Inserting 528 into Bucket 4
+The load factor is now 2.73
+
+Reading record number 42: 861
+Hash function result: 6
+Inserting 861 into Bucket 7
+The load factor is now 2.80
+
+Reading record number 43: 616
+Hash function result: 1
+Inserting 616 into Bucket 2
+The load factor is now 2.87
+
+Reading record number 44: 252
+Hash function result: 12
+Inserting 252 into Bucket 13
+The load factor is now 2.93
+
+Reading record number 45: 980
+Hash function result: 5
+Inserting 980 into Bucket 6
+The load factor is now 3.00
+
+Reading record number 46: 350
+Hash function result: 5
+Inserting 350 into Bucket 6
+The load factor is now 3.07
+
+Reading record number 47: 281
+Hash function result: 11
+Inserting 281 into Bucket 12
+The load factor is now 3.13
+
+Reading record number 48: 997
+Hash function result: 7
+Inserting 997 into Bucket 8
+The load factor is now 3.20
+
+Reading record number 49: 906
+Hash function result: 6
+Inserting 906 into Bucket 7
+The load factor is now 3.27
+
+Reading record number 50: 451
+Hash function result: 1
+Inserting 451 into Bucket 2
+The load factor is now 3.33
+
+Reading record number 51: 639
+Hash function result: 9
+Inserting 639 into Bucket 10
+The load factor is now 3.40
+
+Reading record number 52: 181
+Hash function result: 1
+Inserting 181 into Bucket 2
+The load factor is now 3.47
+
+Reading record number 53: 803
+Hash function result: 8
+Inserting 803 into Bucket 9
+The load factor is now 3.53
+
+Reading record number 54: 715
+Hash function result: 10
+Inserting 715 into Bucket 11
+The load factor is now 3.60
+
+Reading record number 55: 901
+Hash function result: 1
+Inserting 901 into Bucket 2
+The load factor is now 3.67
+
+Reading record number 56: 160
+Hash function result: 10
+Inserting 160 into Bucket 11
+The load factor is now 3.73
+
+Reading record number 57: 455
+Hash function result: 5
+Inserting 455 into Bucket 6
+The load factor is now 3.80
+
+Reading record number 58: 167
+Hash function result: 2
+Inserting 167 into Bucket 3
+The load factor is now 3.87
+
+Reading record number 59: 213
+Hash function result: 3
+Inserting 213 into Bucket 4
+The load factor is now 3.93
+
+Reading record number 60: 261
+Hash function result: 6
+Inserting 261 into Bucket 7
+The load factor is now 4.00
+
+Reading record number 61: 603
+Hash function result: 3
+Inserting 603 into Bucket 4
+The load factor is now 4.07
+
+Reading record number 62: 206
+Hash function result: 11
+Inserting 206 into Bucket 12
+The load factor is now 4.13
+
+Reading record number 63: 979
+Hash function result: 4
+Inserting 979 into Bucket 5
+The load factor is now 4.20
+
+Reading record number 64: 771
+Hash function result: 6
+Inserting 771 into Bucket 7
+The load factor is now 4.27
+
+Reading record number 65: 698
+Hash function result: 8
+Inserting 698 into Bucket 9
+The load factor is now 4.33
+
+Reading record number 66: 612
+Hash function result: 12
+Inserting 612 into Bucket 13
+The load factor is now 4.40
+
+Reading record number 67: 491
+Hash function result: 11
+Inserting 491 into Bucket 12
+The load factor is now 4.47
+
+Reading record number 68: 923
+Hash function result: 8
+Inserting 923 into Bucket 9
+The load factor is now 4.53
+
+Reading record number 69: 897
+Hash function result: 12
+Inserting 897 into Bucket 13
+The load factor is now 4.60
+
+Reading record number 70: 434
+Hash function result: 14
+Inserting 434 into Bucket 15
+The load factor is now 4.67
+
+Reading record number 71: 518
+Hash function result: 8
+Inserting 518 into Bucket 9
+The load factor is now 4.73
+
+Reading record number 72: 710
+Hash function result: 5
+Inserting 710 into Bucket 6
+The load factor is now 4.80
+
+Reading record number 73: 424
+Hash function result: 4
+Inserting 424 into Bucket 5
+The load factor is now 4.87
+
+Reading record number 74: 131
+Hash function result: 11
+Inserting 131 into Bucket 12
+The load factor is now 4.93
+
+Reading record number 75: 660
+Hash function result: 0
+Inserting 660 into Bucket 1
+The load factor is now 5.00
+
+Reading record number 76: 202
+Hash function result: 7
+Inserting 202 into Bucket 8
+The load factor is now 5.07
+
+Reading record number 77: 704
+Hash function result: 14
+Inserting 704 into Bucket 15
+The load factor is now 5.13
+
+Reading record number 78: 107
+Hash function result: 2
+Inserting 107 into Bucket 3
+The load factor is now 5.20
+
+Reading record number 79: 501
+Hash function result: 6
+Inserting 501 into Bucket 7
+The load factor is now 5.27
+
+Reading record number 80: 298
+Hash function result: 13
+Inserting 298 into Bucket 14
+The load factor is now 5.33
+
+Reading record number 81: 280
+Hash function result: 10
+Inserting 280 into Bucket 11
+The load factor is now 5.40
+
+Reading record number 82: 820
+Hash function result: 10
+Inserting 820 into Bucket 11
+The load factor is now 5.47
+
+Reading record number 83: 749
+Hash function result: 14
+Inserting 749 into Bucket 15
+The load factor is now 5.53
+
+Reading record number 84: 390
+Hash function result: 0
+Inserting 390 into Bucket 1
+The load factor is now 5.60
+
+Reading record number 85: 242
+Hash function result: 2
+Inserting 242 into Bucket 3
+The load factor is now 5.67
+
+Reading record number 86: 455
+Hash function result: 5
+Inserting 455 into Bucket 6
+The load factor is now 5.73
+
+Reading record number 87: 905
+Hash function result: 5
+Inserting 905 into Bucket 6
+The load factor is now 5.80
+
+Reading record number 88: 496
+Hash function result: 1
+Inserting 496 into Bucket 2
+The load factor is now 5.87
+
+Reading record number 89: 238
+Hash function result: 13
+Inserting 238 into Bucket 14
+The load factor is now 5.93
+
+Reading record number 90: 476
+Hash function result: 11
+Inserting 476 into Bucket 12
+The load factor is now 6.00
+
+Reading record number 91: 820
+Hash function result: 10
+Inserting 820 into Bucket 11
+The load factor is now 6.07
+
+Reading record number 92: 566
+Hash function result: 11
+Inserting 566 into Bucket 12
+The load factor is now 6.13
+
+Reading record number 93: 725
+Hash function result: 5
+Inserting 725 into Bucket 6
+The load factor is now 6.20
+
+Reading record number 94: 425
+Hash function result: 5
+Inserting 425 into Bucket 6
+The load factor is now 6.27
+
+Reading record number 95: 302
+Hash function result: 2
+Inserting 302 into Bucket 3
+The load factor is now 6.33
+
+Reading record number 96: 576
+Hash function result: 6
+Inserting 576 into Bucket 7
+The load factor is now 6.40
+
+Reading record number 97: 905
+Hash function result: 5
+Inserting 905 into Bucket 6
+The load factor is now 6.47
+
+Reading record number 98: 217
+Hash function result: 7
+Inserting 217 into Bucket 8
+The load factor is now 6.53
+
+Reading record number 99: 115
+Hash function result: 10
+Inserting 115 into Bucket 11
+The load factor is now 6.60
+
+Reading record number 100: 632
+Hash function result: 2
+Inserting 632 into Bucket 3
+The load factor is now 6.67
+
+Bucket  1 contains  3 links
+Bucket  2 contains  8 links
+Bucket  3 contains  7 links
+Bucket  4 contains  5 links
+Bucket  5 contains  5 links
+Bucket  6 contains 14 links
+Bucket  7 contains  6 links
+Bucket  8 contains  7 links
+Bucket  9 contains  8 links
+Bucket 10 contains  4 links
+Bucket 11 contains  9 links
+Bucket 12 contains  8 links
+Bucket 13 contains  5 links
+Bucket 14 contains  7 links
+Bucket 15 contains  4 links
+
+The hash table and its links are as follows:
+
+Bucket  1 (Key  0): 330 -> 660 -> 390 -> NULL
+Bucket  2 (Key  1): 226 -> 931 -> 721 -> 616 -> 451 -> 181 -> 901 -> 496 -> NULL
+Bucket  3 (Key  2): 857 -> 362 -> 167 -> 107 -> 242 -> 302 -> 632 -> NULL
+Bucket  4 (Key  3): 243 -> 288 -> 528 -> 213 -> 603 -> NULL
+Bucket  5 (Key  4): 784 -> 889 -> 139 -> 979 -> 424 -> NULL
+Bucket  6 (Key  5): 380 -> 890 -> 410 -> 350 -> 905 -> 980 -> 350 -> 455 -> 710 -> 455 -> 905 -> 725 -> 425 -> 905 -> NULL
+Bucket  7 (Key  6): 861 -> 906 -> 261 -> 771 -> 501 -> 576 -> NULL
+Bucket  8 (Key  7): 937 -> 397 -> 532 -> 187 -> 997 -> 202 -> 217 -> NULL
+Bucket  9 (Key  8): 413 -> 128 -> 218 -> 533 -> 803 -> 698 -> 923 -> 518 -> NULL
+Bucket 10 (Key  9): 159 -> 729 -> 579 -> 639 -> NULL
+Bucket 11 (Key 10): 250 -> 700 -> 685 -> 715 -> 160 -> 280 -> 820 -> 820 -> 115 -> NULL
+Bucket 12 (Key 11): 236 -> 746 -> 281 -> 206 -> 491 -> 131 -> 476 -> 566 -> NULL
+Bucket 13 (Key 12): 792 -> 207 -> 252 -> 612 -> 897 -> NULL
+Bucket 14 (Key 13): 238 -> 958 -> 223 -> 103 -> 538 -> 298 -> 238 -> NULL
+Bucket 15 (Key 14): 374 -> 434 -> 704 -> 749 -> NULL
+
+The overall load factor is 6.67
+
